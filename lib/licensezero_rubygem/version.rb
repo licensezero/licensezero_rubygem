@@ -1,3 +1,3 @@
-module LicensezeroRubygem
+module LicenseZeroRubyGem
   VERSION = "0.1.0"
 end

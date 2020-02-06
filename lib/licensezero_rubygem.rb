@@ -1,5 +1,5 @@
 require "licensezero_rubygem/version"
 
-module LicensezeroRubygem
-  @@message = "License Zero Gem"
+module LicenseZeroRubyGem
+  MESSAGE = "License Zero Gem"
 end

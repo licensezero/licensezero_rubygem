@@ -4,7 +4,7 @@ require "licensezero_rubygem/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "licensezero_rubygem"
-  spec.version       = LicensezeroRubygem::VERSION
+  spec.version       = LicenseZeroRubyGem::VERSION
   spec.authors       = ["Kyle E. Mitchell"]
   spec.email         = ["kyle@kemitchell.com"]
 
